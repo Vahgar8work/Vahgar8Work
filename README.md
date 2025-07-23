@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on detection of human flood survivors from an autonomous drone swarm.
+- 🌱 I’m currently learning convolutional neural networks and their use in computer vision.
+- 👯 I’m looking to collaborate on any learning oppurtunity.
+- 💬 Ask me about Machine Learning or Algorithms.
 <!--
 **Vahgar8work/Vahgar8Work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
